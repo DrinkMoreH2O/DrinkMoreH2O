@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tyler Robinson
 - 👀 I’m interested in Data Science, health and well being
-- 🌱 I’m currently learning Python and R
+- 🌱 I’m currently learning Java, Python, and R
 - 💞️ I’m looking to collaborate on Data analysis or basic projects (for now)
 - 📫 How to reach me 
 
