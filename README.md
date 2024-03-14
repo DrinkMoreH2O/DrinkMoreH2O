@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tyler Robinson
-- 👀 I’m interested in Software Development, Data Science, health, and well being.
+- 👀 I’m interested in Data Analytics, Data Science.
 - 🌱 I’m currently learning Java, Python, and R
 - 💞️ I’m learning web development and software design principles. 
   
