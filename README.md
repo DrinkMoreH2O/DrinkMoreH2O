@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tyler Robinson
-- 👀 I’m interested in Data Analytics, Data Science.
-- 🌱 I’m currently learning Java, Python, and R
-- 💞️ I’m learning web development and software design principles. 
+- 👀 I’m interested in Data! I am learning Data Analytics and Data Science. 
+- 🌱 I’m currently learning R, Python, SQL, and Tableau
+- 💞️ I love statistics and am looking for ways to spread my passion and help the world
   
 
 <!---
